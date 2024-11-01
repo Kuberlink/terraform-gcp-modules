@@ -1,7 +1,7 @@
 ```markdown
 # KuberLink Terraform Modules for Google Cloud Platform
 
-https://storage.googleapis.com/kuberlink-assets/logos/kuberlink_profile_white.png
+![KuberLink Logo](https://storage.googleapis.com/kuberlink-assets/logos/kuberlink_profile_white.png)
 
 ## Descrição
 
