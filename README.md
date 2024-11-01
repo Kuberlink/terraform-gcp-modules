@@ -1,7 +1,7 @@
 ```markdown
 # KuberLink Terraform Modules for Google Cloud Platform
 
-![KuberLink Logo](path/to/logo.png) <!-- Coloque o caminho para o logotipo, se aplicável -->
+https://storage.googleapis.com/kuberlink-assets/logos/kuberlink_profile_white.png
 
 ## Descrição
 
